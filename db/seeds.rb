@@ -13,9 +13,7 @@ Ingredient.create(name: "mint leaves")
 Cocktail.create(name: "Bloodymary")
 Cocktail.create(name: "Bazooka")
 Cocktail.create(name: "Mojito Beer")
-
-Dose.create(description: "33 cl")
-Dose.create(description: "34 cl")
-Dose.create(description: "24 cl")
-
+Cocktail.create(name: "Piriri")
+Cocktail.create(name: "Demon")
+Cocktail.create(name: "Acapulco")
 
